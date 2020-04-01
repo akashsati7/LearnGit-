@@ -4,6 +4,8 @@ Java
 Python
 c
 c++
+mysql
+opengl
 
 
 thank you :)
